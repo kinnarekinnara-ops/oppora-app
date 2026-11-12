@@ -1,0 +1,136 @@
+[
+  {
+    "id": "usr_admin",
+    "name": "Dr. Sarah Lee",
+    "email": "admin@oppora.edu",
+    "role": "super_admin",
+    "organizationId": null,
+    "salt": "c90ccf9b4b78dd14e4a894555025e13c",
+    "passwordHash": "0466b04a243acc438823122a6f6a1f35b2f98ca39f8d489b76567ac93d5a3350bdc2782be1a03e947596f3f849ba10057b46af8e33a86c626577fd0135c3e7fd",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z",
+    "lastLoginAt": "2026-11-12T14:59:20.122Z"
+  },
+  {
+    "id": "usr_staff",
+    "name": "Mr. Kevin Raj",
+    "email": "staff@oppora.edu",
+    "role": "opportunity_admin",
+    "organizationId": null,
+    "salt": "bf59c0faa749fac0c1481829b23f4ac1",
+    "passwordHash": "82dd369f0b0a503df25be686b310749ea13832796c9ccba7754ca6d624997e7feb2f03f6163e95b8217ce0fd7efd3d80ce0f1492de50fd6d05ff489ae4136954",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "usr_club",
+    "name": "Aiman Hakim",
+    "email": "club@oppora.edu",
+    "role": "org_rep",
+    "organizationId": "org_cyber",
+    "salt": "8d25ebd946c0bbe4c6d3ba5e62ec5474",
+    "passwordHash": "cec34370f3f306c12a77ea6bc387881664151c79116a5629fba2ba0db2e3391d91357500cc0a9c497942bf4536015266d874ecb57ce1425f0c0e8e1808b1f6cf",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "usr_robot",
+    "name": "Grace Chen",
+    "email": "robotics@oppora.edu",
+    "role": "org_rep",
+    "organizationId": "org_robotics",
+    "salt": "dc42f2748a90832435d278935bf90d6c",
+    "passwordHash": "b6caa0473a542264ff6785e98a685ab2eeb956574082768278bed98e5256bb84f1772864f8a9245334d70fc13d22eca917409cfbcebba79af02171172ae64048",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "stu_alex",
+    "name": "Alex Tan",
+    "email": "alex@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "b9645ceb0a46c3ff4999d17b67c7e4f7",
+    "passwordHash": "e07122c3a96dc06dac51e0990df69b41502ebe50cf49cf1f1b104cae939a4c62a141f21c2bbb9a0284e7c4aa83d4f83cdc91f2681c6d65361d1b210d2201d099",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z",
+    "lastLoginAt": "2026-11-12T14:58:51.956Z"
+  },
+  {
+    "id": "stu_priya",
+    "name": "Priya Nair",
+    "email": "priya@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "66b67b62f2f9ca6edc6e09f4203c35ae",
+    "passwordHash": "02009e5d304be867adf761d3d64467d146a116847eaa0d5266063e4864d2d074a0cf614abf99672fb522f3888dfb4691a3bf432171a0fe8cfe7b4678df90c243",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "stu_daniel",
+    "name": "Daniel Lim",
+    "email": "daniel@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "47fd97521fef3f00d672be0f21b5a8b5",
+    "passwordHash": "e20e2ba0bf79c64718f645d999a6ca97f0b3e98f8faba5db9d5ff450aa23fcb108e1d49cb67e373c4f00b9c4ba9b39f2b42b99da28ea369190f7a57c428a823b",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "stu_siti",
+    "name": "Siti Aisyah",
+    "email": "siti@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "e01712fbaef2b0b563c3ee330c264727",
+    "passwordHash": "ca18b121820c95aa00dbdd70410432665221307db8eedfa788554bca0c2654140f589f127b82548baea622042ea74c299157ba5353db1f7ebbe0b8797b4cae8a",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "stu_marcus",
+    "name": "Marcus Wong",
+    "email": "marcus@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "f059ff2ea729500476c7a4e229eb0caf",
+    "passwordHash": "3515d1591b794528f470e94181c201e13927ed0d6dff7dc8fbeb0d50fbbbd151ff803877a4a707ed6fe117d93acf58d000bf6beeefd7125ae8856ca53426720b",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "stu_iman",
+    "name": "Nur Iman",
+    "email": "iman@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "305ef82db5b3eb18d6fdd1dd7ea3d671",
+    "passwordHash": "361f2d73611f30877cacbf4229c4de9853146971ad7e2a465239119913dbeb0ed4ee0f4e815693abee087aa7a526bd5027fd10f878c56379498200cbfba5dc9e",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "stu_jason",
+    "name": "Jason Ong",
+    "email": "jason@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "cf2d003ce9f46699e671a78cfbdc7eeb",
+    "passwordHash": "618bd9f593d3a7496dbba356a635e8cdc4856960e1088a949df3649af37af785b5b8e1ee9cabd5cbd10a7fcd383c1b6bc563e2409459f337af937544d4f67341",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  },
+  {
+    "id": "stu_mei",
+    "name": "Mei Ling",
+    "email": "mei@student.oppora.edu",
+    "role": "student",
+    "organizationId": null,
+    "salt": "5b3a1921d788d986447f2d36dd718086",
+    "passwordHash": "a94b04905eee75e6de8689e0a65dc0ff695c383c1f1283a36147274e43b7ffb4ac2daa20af9d6a785e5bf7bcb464ac5bdc9ec29fcc955e93a5f4a720794c3f78",
+    "status": "active",
+    "createdAt": "2026-09-22T02:00:00.000Z"
+  }
+]
